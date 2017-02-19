@@ -1,6 +1,6 @@
 name="Para Kodi 16.1.- Imagen Catoal V6"
 url="https://archive.org/download/kodi6_201702/kodi6.zip"
-img="https://github.com/Carlesto/Instalador-v3/raw/master/kodijarvis.png"
+img="https://github.com/raspberrypiretroo/mpa25325/blob/master/kodijarvis.png"
 fanart="https://raw.githubusercontent.com/catoalkodi/repository.catoal/master/plugin.video.Catoal/fanart.jpg"
 description="Instala la imagen Catoal v6"
 
